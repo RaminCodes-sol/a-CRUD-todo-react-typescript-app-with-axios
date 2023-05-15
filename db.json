@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 3,
+      "title": "watermelon",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Mango",
+      "completed": true
+    },
+    {
+      "id": 1684175051504,
+      "title": "orange",
+      "completed": false
+    },
+    {
+      "id": 1684175060519,
+      "title": "cherry",
+      "completed": false
+    }
+  ]
+}
