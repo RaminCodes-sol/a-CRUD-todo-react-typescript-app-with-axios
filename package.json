@@ -1,5 +1,6 @@
 {
   "name": "crud-todo-app-with-axios",
+  "homepage": "todo-typescript-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
